@@ -1,0 +1,26 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "matespends",
+          "appId": "1:68600528438:android:274c5dd348fc7603f36297",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "matespends",
+          "configurations": {
+            "android": "1:68600528438:android:274c5dd348fc7603f36297",
+            "web": "1:68600528438:web:6c49c6902c7c86e2f36297"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

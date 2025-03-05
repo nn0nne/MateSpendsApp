@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68600528438",
+    "project_id": "matespends",
+    "storage_bucket": "matespends.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68600528438:android:274c5dd348fc7603f36297",
+        "android_client_info": {
+          "package_name": "com.example.matespendsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLnqG5JATgmN0qdOvtRJhAcjakjiwzlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
