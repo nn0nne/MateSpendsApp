@@ -1,16 +1,31 @@
-# matespendsapp
+# MateSpends
 
-A new Flutter project.
+Hello there! 🎉 MateSpends is now a real app!
 
-## Getting Started
+## Getting Started 🚀
 
-This project is a starting point for a Flutter application.
+To try it follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```sh
+git clone https://github.com/ananda17gb/MateSpendsApp.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Go to the project folder
+
+```sh
+cd matespendsapp
+```
+
+3. Run this command
+
+```sh
+flutter pub get
+```
+
+4. Run the project
+
+```sh
+flutter run
+```
