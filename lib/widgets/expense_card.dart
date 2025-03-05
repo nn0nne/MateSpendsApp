@@ -5,7 +5,7 @@ import 'package:matespendsapp/services/expense_provider.dart';
 import 'package:provider/provider.dart';
 
 class ExpenseCard extends StatelessWidget {
-  final VoidCallback onDelete;
+  //final VoidCallback onDelete;
   final String title;
   final int cost;
   final String category;
@@ -15,7 +15,7 @@ class ExpenseCard extends StatelessWidget {
 
   const ExpenseCard({
     super.key,
-    required this.onDelete,
+    //required this.onDelete,
     required this.title,
     required this.cost,
     required this.category,
